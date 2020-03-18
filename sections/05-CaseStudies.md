@@ -186,7 +186,7 @@ Confluent Platform:
 
 ### Data Science at Grammarly
 
-<https://www.slideshare.net/databricks/building-a-versatile-analytics-pipeline-on-top-of-apache-spark-with-mikhail-chernetsov>
+[Slides on SlideShare](https://www.slideshare.net/databricks/building-a-versatile-analytics-pipeline-on-top-of-apache-spark-with-mikhail-chernetsov) \ [Watch on Youtube](https://youtu.be/CBKscwUXECo)
 
 ### Data Science at ING Fraud
 
